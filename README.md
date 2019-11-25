@@ -14,4 +14,8 @@ guest3: hello everyone\r\n <br/>
 Whenever your socket is ready to read or write it's print:<br/>
 “server is ready to read from socket <sd>\n” or<br/>
 “Server is ready to write to socket <sd>\n”<br/>
+  
+### slist.c:
+contain function on list - add node to tail, add node to head,
+initialize list,destroy my list.
 
